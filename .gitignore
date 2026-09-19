@@ -108,7 +108,13 @@ env/
 venv/
 .venv/
 .venv/*
+.venv311/
 ENV/
+
+# Runtime output
+screenshots/
+recordings/
+leaderboard.json
 env.bak/
 venv.bak/
 
